@@ -1,0 +1,30 @@
+h1{
+    color:black
+}
+.HeaderBox{
+
+    color:rgb(255, 208, 0);
+    border: solid;
+    background-color: rgb(255, 208, 0);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.LinkBox{
+    color: rgb(255, 208, 0);
+    border: solid;
+    background-color:rgb(255, 208, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.Socials{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #041870;
+}
